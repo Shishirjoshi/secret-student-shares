@@ -1,0 +1,43 @@
+[33mcommit 73357e4693d4cacc0355919ea7aa3012c1f162cc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 95d05da 8c2f631
+Author: gpt-engineer-app[bot] <159125892+gpt-engineer-app[bot]@users.noreply.github.com>
+Date:   Thu Apr 2 09:07:21 2026 +0000
+
+    Implement initial UI components
+    
+    - Added design system and dark theme setup
+    - Implemented CategoryBadge, VoteButtons, PostCard, CreatePostForm, CommentItem, Header, PostDetail, and related UI wiring
+    - Created mock data and types; integrated feed, posting, voting, and comments
+    - Introduced posts/comments with anonymous author aliases and category tagging
+    
+    X-Lovable-Edit-ID: edt-b2d5e844-bcf5-4ee1-b456-d12e349073fa
+
+[33mcommit 8c2f6313c665ffb14b4bd16c73eccd7f9b520051[m
+Author: gpt-engineer-app[bot] <159125892+gpt-engineer-app[bot]@users.noreply.github.com>
+Date:   Thu Apr 2 09:07:05 2026 +0000
+
+    Add mock data and types
+
+[33mcommit 8c1f96cb80b48cf214d934e3bdd229c6c416e91d[m
+Author: gpt-engineer-app[bot] <159125892+gpt-engineer-app[bot]@users.noreply.github.com>
+Date:   Thu Apr 2 09:05:46 2026 +0000
+
+    Updated bun.lock and added Button component typings
+
+[33mcommit 2907804d6404a577db8b5f84e6f5ac0453e9af79[m
+Author: gpt-engineer-app[bot] <159125892+gpt-engineer-app[bot]@users.noreply.github.com>
+Date:   Thu Apr 2 09:05:00 2026 +0000
+
+    Update lockfile and deps
+
+[33mcommit 214fd6e4bccdbe69cfc818b68f5c18d3825980e7[m
+Author: gpt-engineer-app[bot] <159125892+gpt-engineer-app[bot]@users.noreply.github.com>
+Date:   Thu Apr 2 09:04:45 2026 +0000
+
+    Work in progress
+
+[33mcommit 95d05da0accabe1ba296178d9564036089823322[m
+Author: Lovable <noreply@lovable.dev>
+Date:   Wed Jan 1 00:00:00 2025 +0000
+
+    template: vite_react_shadcn_ts_2026-03-20
